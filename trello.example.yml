@@ -1,0 +1,5 @@
+app_key: ffffffffffffffffffffffffffffffff
+app_secret: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+user: ffffffffffffffffffffffff
+# https://trello.com/1/connect?key=APP_KEY&name=App+Name&response_type=token&scope=read&expiration=never
+user_token: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff

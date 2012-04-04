@@ -1,0 +1,9 @@
+%h1 Playground
+- data.map{|i| i[1]}.each do |list|
+  %h2= list[:name]
+  - list[:items].each_slice(4) do |row|
+    .row
+      - row.each do |item|
+        .span4
+          .alert= item
+
